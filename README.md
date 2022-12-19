@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @Jaimin Javia  
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Nodejs,MongoDB,SQL.
-- 💞️ I’m looking to collaborate with FrontEnd Developer.
-- 📫 How to reach me .
+- 🌱 I’m currently working on Nodejs.
+- 👀 I’m interested in Backend Development.
+-  I’m currently learning Web Development.
+- 🤔 I’m looking for help with mastering Js for now
+- 👯 I’m looking to collaborate on Js Projects.
+- 📫 How to reach me: javia.jaimin@gmail.com
+- 😄 Pronouns: He/His
+
+
 
 <!---
 jaimin158/jaimin158 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
